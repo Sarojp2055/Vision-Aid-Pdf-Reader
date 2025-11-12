@@ -1,0 +1,7 @@
+{
+  "name": "Vision Aid PDF & Image Viewer",
+  "description": "An accessible application for visually impaired users to read PDF and image files by inverting colors, applying high-contrast modes, and extracting text for readability.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
